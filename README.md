@@ -45,9 +45,9 @@ From **custom kernel tuning** to **Magisk modules**, I build tools that push you
 ## Projects Showcase
 
 > Stay tuned for public releases like:
-> - **VelocityHide** – Root Cloaking System
-> - **V-NetEnhancer** – Stable Network Booster
-> - **AI GameMode Tweaks** – Custom per-SoC boost
+> - **Infinity Core** – Performance Optimization Toolkit
+> - **V-Net Enhancer** – Stable Network Booster
+> - **Screen Saber** – Improve screen display 
 
 ---
 
