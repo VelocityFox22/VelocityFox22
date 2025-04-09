@@ -5,33 +5,33 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="160" />
 </p>
 
-<p align="center">
-  <strong>Speed is Power. Stability is Everything.</strong>
-</p>
+<h2 align="center"><strong>Speed is Power. Stability is Everything.</strong></h2>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm **VelocityFox22** – Android tweaker & system optimizer focused on **performance**, **gaming stability**, and **network enhancements**.  
-From **custom kernel tuning** to **Magisk modules**, I build tools that push your device to the **next level** — without lag, delay, or overheating.
+I'm **VelocityFox22** — an Android performance enthusiast who **loves to learn, explore, and create**.
 
----
-
-## What I Do
-
-- **Custom Android Tweak Modules**
-- **Optimized Scripts for All SoC (MTK, QCOM, Exynos, etc)**
-- **Root & Non-Root Performance Boosters**
-- **Gaming Mode Enhancements (FPS, Touch, Stability)**
-- **Network Tuning for Stable 4G/5G Ping**
+I enjoy diving deep into Android systems, studying how things work, and turning that knowledge into powerful tools and modules.  
+My focus is on building smart tweaks that improve performance, boost gaming stability, and keep your device fast and efficient — **without lag, delay, or overheating**.
 
 ---
 
-## Tools & Tech Stack
+## ⚙️ What I Build
+
+- ⚡️ **Custom Android Tweak Modules**
+- 🔧 **Performance Scripts for all SoCs** (MTK, QCOM, Exynos, etc.)
+- 📱 **Root & Non-Root Boosters**
+- 🎮 **Gaming Mode Enhancements** (FPS, Touch, Thermal Control)
+- 🌐 **Network Tweaks** for stable ping (4G/5G/WiFi)
+
+---
+
+## 🧰 Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bash%20Scripts-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -42,26 +42,29 @@ From **custom kernel tuning** to **Magisk modules**, I build tools that push you
 
 ---
 
-## Projects Showcase
+## 📦 Projects Preview
 
-> Stay tuned for public releases like:
-> - **Infinity Core** – Performance Optimization Toolkit
-> - **V-Net Enhancer** – Stable Network Booster
-> - **Screen Saber** – Improve screen display 
+> **Coming Soon:**
+> - `Infinity Core` — Next-gen Performance Toolkit
+> - `V-Net Enhancer` — Network Optimization Module
+> - `Screen Saber` — Advanced Display Enhancer
 
 ---
 
-## Support My Work
+## ☕ Support My Work
 
 <p align="center">
-  <a href="https://t.me/VelocityProject/136" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Telegram-blue?style=for-the-badge&logo=telegram" />
+  <a href="https://saweria.co/velocityfox22" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-ID%20Support-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  </a>
+  <a href="https://sociabuzz.com/velocityfox22" target="_blank">
+    <img src="https://img.shields.io/badge/Sociabuzz-Global%20Support-yellow?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Social & Media
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://t.me/VelocityProject">
@@ -74,7 +77,7 @@ From **custom kernel tuning** to **Magisk modules**, I build tools that push you
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VelocityFox22&show_icons=true&theme=radical&border_radius=15&hide_title=true&hide_border=true" width="47%" />
