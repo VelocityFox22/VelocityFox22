@@ -10,14 +10,24 @@
 
 <h2 align="center"><strong>Speed is Power. Stability is Everything.</strong></h2>
 
+<p align="center">
+  <a href="#support">
+    <img src="https://img.shields.io/badge/☕%20Support%20My%20Work-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-I'm **VelocityFox22** — an Android performance enthusiast who **loves to learn, explore, and create**.
+I'm **VelocityFox22** — an Android performance enthusiast who loves learning, exploring, and creating something new.
 
-I enjoy diving deep into Android systems, studying how things work, and turning that knowledge into powerful tools and modules.  
-My focus is on building smart tweaks that improve performance, boost gaming stability, and keep your device fast and efficient — **without lag, delay, or overheating**.
+Focus:
+- **System optimization**
+- **Lag-free gaming**
+- **Stable 4G/5G networking**
+
+From **custom kernel tuning** to **Magisk modules**, I craft powerful tools that **enhance speed, eliminate lag**, and keep your device **cool & stable**.
 
 ---
 
@@ -45,13 +55,13 @@ My focus is on building smart tweaks that improve performance, boost gaming stab
 ## 📦 Projects Preview
 
 > **Coming Soon:**
-> - `Infinity Core` — Next-gen Performance Toolkit
-> - `V-Net Enhancer` — Network Optimization Module
+> - `Infinity Core` — Next-gen Performance Toolkit  
+> - `V-Net Enhancer` — Network Optimization Module  
 > - `Screen Saber` — Advanced Display Enhancer
 
 ---
 
-## ☕ Support My Work
+<h2 id="support">☕ Support My Work</h2>
 
 <p align="center">
   <a href="https://saweria.co/velocityfox22" target="_blank">
