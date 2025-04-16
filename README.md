@@ -34,10 +34,9 @@ From **custom kernel tuning** to **Magisk modules**, I craft powerful tools that
 ## ⚙️ What I Build
 
 - ⚡️ **Custom Android Tweak Modules**
-- 🔧 **Performance Scripts for all SoCs** (MTK, QCOM, Exynos, etc.)
-- 📱 **Root & Non-Root Boosters**
+- 🔧 **Performance Scripts for all SoC** 
 - 🎮 **Gaming Mode Enhancements** (FPS, Touch, Thermal Control)
-- 🌐 **Network Tweaks** for stable ping (4G/5G/WiFi)
+- 🌐 **Network Tweaks** for stable ping
 
 ---
 
