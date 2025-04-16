@@ -22,7 +22,7 @@
 
 - ⚡️ **Custom Android Tweak Modules**
 - 🔧 **Performance Scripts for all SoC** 
-- 🎮 **Gaming Mode Enhancements** (FPS, Touch, Thermal Control)
+- 🎮 **Gaming Mode Enhancements**
 - 🌐 **Network Tweaks** for stable ping
 
 ---
