@@ -18,19 +18,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm **VelocityFox22** — an Android performance enthusiast who loves learning, exploring, and creating something new.
-
-Focus:
-- **System optimization**
-- **Lag-free gaming**
-- **Stable 4G/5G networking**
-
-From **custom kernel tuning** to **Magisk modules**, I craft powerful tools that **enhance speed, eliminate lag**, and keep your device **cool & stable**.
-
----
-
 ## ⚙️ What I Build
 
 - ⚡️ **Custom Android Tweak Modules**
