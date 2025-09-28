@@ -41,9 +41,9 @@
 ## 📦 Projects Preview
 
 > **Coming Soon:**
-> - `Infinity Core` — Next-gen Performance Toolkit  
+> - `Neovelocity Tweak` — Next-gen Performance Toolkit  
 > - `V-Net Enhancer` — Network Optimization Module  
-> - `Screen Saber` — Advanced Display Enhancer
+> - `Velocity Display Enhancer` — Advanced Display Enhancer
 
 ---
 
