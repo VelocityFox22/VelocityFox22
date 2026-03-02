@@ -61,18 +61,3 @@
     <img src="https://img.shields.io/badge/YouTube-VelocityFox22-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VelocityFox22&show_icons=true&theme=radical&border_radius=15&hide_title=true&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelocityFox22&layout=compact&theme=radical&border_radius=15&hide_border=true" width="47%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VelocityFox22&style=flat-square&color=blue" alt="Profile Views" />
-</p>
