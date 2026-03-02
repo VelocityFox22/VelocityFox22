@@ -18,16 +18,16 @@
 
 ---
 
-## ⚙️ What I Build
+## What I Build
 
-- ⚡️ **Custom Android Tweak Modules**
-- 🔧 **Performance Scripts for all SoC** 
-- 🎮 **Gaming Mode Enhancements**
-- 🌐 **Network Tweaks** for stable ping
+- **Custom Android Tweak Modules**
+- **Performance Scripts for all SoC** 
+- **Gaming Mode Enhancements**
+- **Network Tweaks** for stable ping
 
 ---
 
-## 🧰 Tech & Tools
+## Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bash%20Scripts-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -35,15 +35,6 @@
   <img src="https://img.shields.io/badge/Linux%20Tweaks-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Optimization-3ddc84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
-
----
-
-## 📦 Projects Preview
-
-> **Coming Soon:**
-> - `Neovelocity Tweak` — Next-gen Performance Toolkit  
-> - `V-Net Enhancer` — Network Optimization Module  
-> - `Velocity Display Enhancer` — Advanced Display Enhancer
 
 ---
 
@@ -60,7 +51,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://t.me/VelocityProject">
@@ -73,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VelocityFox22&show_icons=true&theme=radical&border_radius=15&hide_title=true&hide_border=true" width="47%" />
